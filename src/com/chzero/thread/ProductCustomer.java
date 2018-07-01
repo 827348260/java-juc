@@ -5,7 +5,7 @@ package com.chzero.thread;
  * @version 1.0
  * @date 2018-07-01 0:40
  * @email 827348260@qq.com
- * @description 经典多线程问题: 生产者和消费者
+ * @description 经典多线程问题: 生产者和消费者 v1
  */
 public class ProductCustomer{
 
